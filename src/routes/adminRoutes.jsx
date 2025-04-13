@@ -4,7 +4,7 @@ import UsersPage from '../pages/user/UsersPage';
 import CoursesPage from '../pages/course/CoursesPage';
 import StudentsPage from '../pages/students/StudentsPage';
 import RolesPage from '../pages/roles/RolesPage';
-import ManageLogsPage from '../pages/logs/LogsPage'
+import LogsPage from '../pages/logs/LogsPage';
 
 
 const AdminRoutes = () => (
