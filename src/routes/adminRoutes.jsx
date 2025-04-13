@@ -13,7 +13,7 @@ const AdminRoutes = () => (
         <Route path="/courses" element={<CoursesPage />} />
         <Route path="/students" element={<StudentsPage />} />
         <Route path="/roles" element={<RolesPage />} />
-        <Route path="/logs" element={<ManageLogsPage />} />
+        <Route path="/logs" element={<LogsPage />} />
     </Routes>
 );
 
